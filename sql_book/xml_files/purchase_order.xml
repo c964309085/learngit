@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<purchase_order>
+  <customer_order_id>176</customer_order_id>
+  <order_date>2007-05-17</order_date>
+  <customer_name>Best Products 456 Inc.</customer_name>
+  <street>10 Any Street</street>
+  <city>Any City</city>
+  <state>CA</state>
+  <zip>94440</zip>
+  <phone_number>555-121-1234</phone_number>
+  <products>
+    <product>
+      <product_id>1</product_id>
+      <name>Supernova video</name>
+      <quantity>5</quantity>
+    </product>
+    <product>
+      <product_id>2</product_id>
+      <name>Oracle SQL book</name>
+      <quantity>4</quantity>
+    </product>
+  </products>
+</purchase_order>
